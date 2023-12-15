@@ -1,25 +1,6 @@
 [
     {
-        "Insegnante": "passoni",
-        "Data": "25/12/23",
-        "Misurazione": "1.030240284829048"
-    },
-    {
-        "Insegnante": "passoni",
-        "Data": "12/6/23",
-        "Misurazione": "1.030240284829048"
-    },
-    {
-        "Insegnante": "rotondo",
-        "Data": "12/4/23",
-        "Misurazione": "1.030240284829048"
-    },
-    {
-        "Insegnante": "passoni",
-        "Data": "0/8/23",
-        "Misurazione": "1.030240284829048"
-    },
-    {
+        "Classe": "3DI",
         "Insegnante": "passoni",
         "Data": "12/12/23",
         "Misurazione": "1.2394924927"
@@ -29,5 +10,35 @@
         "Insegnante": "passoni",
         "Data": "12/12/23",
         "Misurazione": "1.2394924927"
+    },
+    {
+        "Classe": "3DI",
+        "Insegnante": "passoni",
+        "Data": "12/12/23",
+        "Misurazione": "1.2394924927"
+    },
+    {
+        "Classe": "3DI",
+        "Insegnante": "passoni",
+        "Data": "12/12/23",
+        "Misurazione": "1.2394924927"
+    },
+    {
+        "Classe": "3DI",
+        "Insegnante": "passoni",
+        "Data": "12/12/23",
+        "Misurazione": "1.2394924927"
+    },
+    {
+        "Classe": "3DI",
+        "Insegnante": "passoni",
+        "Data": "12/12/23",
+        "Misurazione": "1.2394924927"
+    },
+    {
+        "Classe": "5DI",
+        "Insegnante": "rotondo",
+        "Data": "12/12/23",
+        "Misurazione": "1.48409284094924927"
     }
 ]
